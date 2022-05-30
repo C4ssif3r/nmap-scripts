@@ -52,5 +52,5 @@ args vulners.mincvss Limit CVEs shown to those with this CVSS score or greater.
 ![paths_regex_example](https://user-images.githubusercontent.com/79422726/170950117-69dbf6b9-a4c8-46f7-888a-babf6c982162.png)
 
   
-  # simple rejex patch example:
-      ![simple_regex_example](https://user-images.githubusercontent.com/79422726/170950530-65e60d4a-6f44-4352-8854-d6ee3f684f25.png)
+# simple rejex patch example:
+![simple_regex_example](https://user-images.githubusercontent.com/79422726/170950530-65e60d4a-6f44-4352-8854-d6ee3f684f25.png)
