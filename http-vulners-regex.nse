@@ -27,7 +27,7 @@ Identifies the used software for each found http port and builds CPEs for the id
 --   <elem>cpe:/a:php:php:5.6.38</elem>
 -- </table>
 
-author = 'gmedian AT vulners DOT com'
+author = 'null'
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
 categories = {"safe", "default"}
 
